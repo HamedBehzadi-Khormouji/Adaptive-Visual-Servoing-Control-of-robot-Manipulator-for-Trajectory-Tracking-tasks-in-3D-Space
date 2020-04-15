@@ -28,5 +28,10 @@ experimental results show that by using the adaptive learning
 algorithm, the end-effector can track the trajectory with high
 accuracy.
 
+The block diagram of proposed adaptive controller
+A. 
+<img src="images/blockdriagram.png" width=500 height=700>
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+The robotic manipulator ARM-6Ax18 and the XBOX-360 Kinect
+camera.
+<img src="images/hardware.jpg" width=500 height=700>
